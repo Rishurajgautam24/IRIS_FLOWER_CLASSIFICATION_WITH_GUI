@@ -2,8 +2,8 @@ import streamlit as st
 import pickle
 
 # loading the trained model
-DecTree=pickle.load(open('/mount/src/iris_flower_classification_ml/modelDecTreeClassifier.pkl','rb'))
-RandomForest=pickle.load(open('/mount/src/iris_flower_classification_ml/modelRandomForestClassifier.pkl','rb'))
+DecTree=pickle.load(open('modelDecTreeClassifier.pkl','rb'))
+RandomForest=pickle.load(open('modelRandomForestClassifier.pkl','rb'))
 
 st.title("Welcome to IRIS Flower Classifier App")
 
