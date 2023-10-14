@@ -22,6 +22,8 @@ Columns:
 Rishu Raj Gautam
 <a href="linktr.ee/rishurajgautam">Social Links</a>
 
+website link = <a href="[linktr.ee/rishurajgautam](https://irispredic.onrender.com/)"> Links</a> 
+
 Please refer to the code files and notebooks in this repository for further details and implementation of the iris flower classification project.
 
 Note: This project is based on the Iris flower dataset and aims to demonstrate the application of machine learning algorithms for classification tasks.
